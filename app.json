@@ -3,9 +3,9 @@
     "name": "jdappokemon",
     "slug": "jdappokemon",
     "version": "1.0.0",
-    "icon": "./assets/pokemon-bgd.png",
+    "icon": "./assets/#002.png",
     "splash": {
-      "image": "./assets/pokemon-bgd.png",
+      "image": "./assets/#002.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -24,7 +24,7 @@
       "versionCode": 1
     },
     "web": {
-      "favicon": "./assets/pokemon-bgd.png"
+      "favicon": "./assets/#002.png"
     }
   }
 }

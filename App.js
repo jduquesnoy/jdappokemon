@@ -7,7 +7,7 @@ import AccordionList from './components/accordion_list';
 export default function App() {
   return (
      <SafeAreaView style={styles.container}>
-        <Image source={require('./assets/pokemon-bgd.png')} resizeMode="contains" style={styles.image} />     
+        <Image source={require('./assets/pokemon-bgd.png')} resizeMode="contain" style={styles.image} />     
         <ScrollView style={styles.scrollView} >
           <AccordionList/>
         </ScrollView>
